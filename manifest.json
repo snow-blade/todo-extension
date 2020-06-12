@@ -1,0 +1,15 @@
+{
+    "name": "Todo",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "A small todo chrome ext",
+    "icons": {
+        "16": "icon16.png",
+        "128": "icon128.png"
+    },
+    "browser_action": {
+        "default_icon": "icon128.png",
+        "default_popup": "index.html"
+    }
+}
+
